@@ -1,2 +1,2 @@
 #!/bin/sh
-touch hello.txt
+cat  hello.txt
